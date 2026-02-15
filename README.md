@@ -84,7 +84,14 @@ VRF • Data Feeds • Automation • Oracle-based contracts
 
 - Twitter/X : https://x.com/iambvz_
 - LinkedIn: https://www.linkedin.com/in/bhavya-jain-7aa2522b4/
-- Email: 
+- Email:
+
+ ### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=bhavyajain0718-design&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyajain0718-design&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyajain0718-design&layout=compact&theme=tokyonight)
 
 ---
 
